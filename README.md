@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Nagi</h1>
-<h3 align="center">A passionate full stack developer from The University of Waterloo</h3>
+<h3 align="center">A full stack developer from The University of Waterloo</h3>
 
 - 🔭 I’m currently working on [Lyrix - An AI Poetry Analyzer](https://www.lyrix.app/)
 
