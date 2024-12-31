@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Soccer, Food, Investing**
 
-- 📫 How to reach me **soham.nagi@uwaterloo.ca**
+- 📫 You can reach me at **soham.nagi@uwaterloo.ca**
 
-- ⚡ Fun fact **2024 Waterloo Gully Cricket Champion**
+- ⚡ A fun fact about me is that **I won the 2024 Waterloo Gully Cricket Championship**
 
 - 📄 [A Link To My Resume](https://drive.google.com/file/d/13lLpgtPQP7-Pa7Xs6GA11L66g8FRai1P/view?usp=sharing)
 
