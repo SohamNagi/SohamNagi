@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Nagi</h1>
 <h3 align="center">A full stack developer from The University of Waterloo</h3>
 
-- 🔭 I’m currently working on [Lyrix - An AI Poetry Analyzer](https://www.lyrix.app/)
-
-- 🌱 I’m currently learning about **Swift and AWS Certs**
-
 - 💬 Ask me about **Soccer, Food, Investing**
 
 - 📫 You can reach me at **soham.nagi@uwaterloo.ca**
 
-- ⚡ A fun fact about me is that **I won the 2024 Waterloo Gully Cricket Championship**
+- ⚡ A fun fact about me is that **I won the 2024 Waterloo Cricket Championship**
 
 - 📄 [A Link To My Resume](https://drive.google.com/file/d/13lLpgtPQP7-Pa7Xs6GA11L66g8FRai1P/view?usp=sharing)
 
